@@ -4,11 +4,13 @@ A production-ready **vertical (1080×1920, 9:16)** kinetic motion video explaini
 
 ---
 
-## 📸 Visual Previews & Scene Examples
+## 🎬 Video Demo
 
-| 1. Hook & App Variables | 2. Code Window & Memory Box | 3. Multi-Type Showcase |
-|:---:|:---:|:---:|
-| <img src="assets/preview-hook.png" width="260" alt="Scene 1 Hook" /> | <img src="assets/preview-code.png" width="260" alt="Scene 3 Code Editor" /> | <img src="assets/preview-types.png" width="260" alt="Scene 6 Data Types" /> |
+<p align="center">
+  <video src="https://raw.githubusercontent.com/ak4hit/variables_edit/main/assets/variables.mp4" controls="controls" width="420" style="max-width: 100%; border-radius: 12px;"></video>
+</p>
+
+> 📥 **Direct Download / Preview**: [Download `variables.mp4`](assets/variables.mp4)
 
 ---
 
@@ -77,10 +79,8 @@ Open `src/tokens.ts` to tweak the design palette:
 
 ```text
 variables-video/
-├── assets/                    # Example preview screenshots & demo visuals
-│   ├── preview-hook.png
-│   ├── preview-code.png
-│   └── preview-types.png
+├── assets/                    # Demo video file & visual assets
+│   └── variables.mp4          # Rendered MP4 demo video
 ├── scripts/
 │   └── generate_audio.py      # Automated neural TTS generator & sync engine
 ├── public/
