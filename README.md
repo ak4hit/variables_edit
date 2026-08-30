@@ -4,13 +4,17 @@ A production-ready **vertical (1080×1920, 9:16)** kinetic motion video explaini
 
 ---
 
-## 🎬 Video Demo
+## 🎬 Demo
 
 <p align="center">
-  <video src="https://raw.githubusercontent.com/ak4hit/variables_edit/main/assets/variables.mp4" controls="controls" width="420" style="max-width: 100%; border-radius: 12px;"></video>
+  <img src="assets/preview-hook.png" width="220" />
+  <img src="assets/preview-code.png" width="220" />
+  <img src="assets/preview-types.png" width="220" />
 </p>
 
-> 📥 **Direct Download / Preview**: [Download `variables.mp4`](assets/variables.mp4)
+> 📥 **Download & Watch Full Video**: [assets/variables.mp4](assets/variables.mp4)
+>
+> ⚠️ GitHub can't play large `.mp4` files inline. To watch, click **"View raw"** on the link above to download, or clone the repo and open `assets/variables.mp4` locally.
 
 ---
 
